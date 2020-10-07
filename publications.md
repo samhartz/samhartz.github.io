@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# # Publications
+## Publications
 
 # Book Chapters 
 
