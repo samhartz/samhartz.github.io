@@ -12,7 +12,7 @@ Follador, M., Viezzer, J., Egler, M., Becher, M., Hach, L., Pererira, V., Rocha,
 
 ## Peer-Reviewed Publications
 
-Hartzell, S., Bartlett, M.S., Inglese, P., Consoli, S., Yin, J. and A. Porporato (2020) Modeling nonlinear dynamics of CAM productivity and water use for global predictions. In publication.
+Hartzell, S., Bartlett, M.S., Inglese, P., Consoli, S., Yin, J. and A. Porporato (2020) Modeling nonlinear dynamics of CAM productivity and water use for global predictions. In press, Plant, Cell and Environment.
 
 Souza, R., Hartzell, S., Feng, X. and A. Porporato (2020) Optimal management of animal grazing in the seasonally dry tropical forest under rainfall fluctuations. Journal of Hydrology.
 
