@@ -8,7 +8,7 @@ layout: default
 
 ## Book Chapters 
 
-Hartzell, S. (2019) Ecohydrology of Photosynthesis, in Dryland Ecohydrology, ed. D’Odorico, P., Porporato, A., and C. Wilkinson Runyan. Springer, 101-120 [10.1007/978-3-030-23269-6_5].
+Hartzell, S. (2019) Ecohydrology of Photosynthesis, in Dryland Ecohydrology, ed. D’Odorico, P., Porporato, A., and C. Wilkinson Runyan. Springer, 101-120 [10.1007/978-3-030-23269-6_5](https://doi.org/10.1007/978-3-030-23269-6_5).
 
 Follador, M., Viezzer, J., Egler, M., Becher, M., Hach, L., Pererira, V., Rocha, A., Vaz, C., Viera, T., Amoni, M., and S. Hartzell (2018)  Modelling potential biophysical impacts of climate change in the Atlantic Forest: Closing the gap to identify vulnerabilities in Brazil. Climate Change Adaptation in Latin America, 33-64 [10.1007/978-3-319-56946-8_3].
 
