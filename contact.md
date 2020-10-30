@@ -1,8 +1,7 @@
 ---
 layout: default
+title: Contact
 ---
-
-# Contact
 
 s.hartzell at pdx.edu\
 (503) 725-2435
