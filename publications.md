@@ -4,6 +4,8 @@ layout: default
 
 # Publications
 
+(please [contact me by email](https://samhartz.github.io/contact) for copies of articles)
+
 ## Book Chapters 
 
 Hartzell, S. (2019) Ecohydrology of Photosynthesis, in Dryland Ecohydrology, ed. D’Odorico, P., Porporato, A., and C. Wilkinson Runyan. Springer, 101-120, doi: 10.1007/978-3-030-23269-6_5
