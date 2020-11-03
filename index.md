@@ -8,7 +8,7 @@ Assistant Professor\
 Department of Civil and Environmental Engineering\
 Portland State University
 
-<img src="https://user-images.githubusercontent.com/28785623/98046533-39d36580-1ddf-11eb-9ac5-f83dd6edb7e0.jpg" alt="drawing" width="200"/>
+<img src="https://user-images.githubusercontent.com/28785623/98047377-a1d67b80-1de0-11eb-8eae-830a2c198877.jpg" width="500"/>
 
 ![UNADJUSTEDNONRAW_thumb_2cae - Copy](https://user-images.githubusercontent.com/28785623/98046533-39d36580-1ddf-11eb-9ac5-f83dd6edb7e0.jpg)
 
