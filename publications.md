@@ -14,7 +14,7 @@ Follador, M., Viezzer, J., Egler, M., Becher, M., Hach, L., Pererira, V., Rocha,
 
 ## Peer-Reviewed Publications
 
-Miller, G., Hartzell, S., Porporato, A. Ecohydrology of epiphytes: modeling water balance, CAM photosynthesis, and their climate impacts. *In press, Ecohydrology.*
+Miller, G., Hartzell, S., and A. Porporato. Ecohydrology of epiphytes: modeling water balance, CAM photosynthesis, and their climate impacts. *In press, Ecohydrology.*
 
 Hartzell, S., Bartlett, M.S., Inglese, P., Consoli, S., Yin, J. and A. Porporato (2020) Modeling nonlinear dynamics of CAM productivity and water use for global predictions. *Plant, Cell and Environment, 44*(1) [[10.1111/pce.13918]](https://doi.org/10.1111/pce.13918).
 
