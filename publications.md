@@ -14,7 +14,9 @@ Follador, M., Viezzer, J., Egler, M., Becher, M., Hach, L., Pererira, V., Rocha,
 
 ## Peer-Reviewed Publications
 
-Hartzell, S., Bartlett, M.S., Inglese, P., Consoli, S., Yin, J. and A. Porporato (2020) Modeling nonlinear dynamics of CAM productivity and water use for global predictions. *In press, Plant, Cell and Environment* [[10.1111/pce.13918]](https://doi.org/10.1111/pce.13918).
+Miller, G., Hartzell, S., Porporato, A. Ecohydrology of epiphytes: modeling water balance, CAM photosynthesis, and their climate impacts. *In press, Ecohydrology.*
+
+Hartzell, S., Bartlett, M.S., Inglese, P., Consoli, S., Yin, J. and A. Porporato (2020) Modeling nonlinear dynamics of CAM productivity and water use for global predictions. *Plant, Cell and Environment, 44*(1) [[10.1111/pce.13918]](https://doi.org/10.1111/pce.13918).
 
 Souza, R., Hartzell, S., Feng, X. and A. Porporato (2020) Optimal management of animal grazing in the seasonally dry tropical forest under rainfall fluctuations. *Journal of Hydrology, 588* [[10.1016/j.jhydrol.2020.125102]](https://doi.org/10.1016/j.jhydrol.2020.125102).
 
@@ -28,4 +30,4 @@ Hartzell, S., Bartlett, M.S., Yin, J. and A. Porporato (2018) Similarities in th
 
 Hartzell, S., Bartlett, M. S., and A. Porporato (2017) The role of plant water storage and hydraulic strategies in relation to soil moisture availability. *Plant and Soil, 419* [[10.1007/s11104-017-3341-7]](https://doi.org/10.1007/s11104-017-3341-7).
 
-Hartzell S., Bartlett, M. S., Virgin, L., and A. Porporato (2014) Nonlinear dynamics of the CAM circadian rhythm in response to environmental forcing. *Journal of Theoretical Biology, 368* [[10.1016/j.jtbi.2014.12.010]](https://doi.org/10.1016/j.jtbi.2014.12.010).
+Hartzell S., Bartlett, M. S., Virgin, L., and A. Porporato (2015) Nonlinear dynamics of the CAM circadian rhythm in response to environmental forcing. *Journal of Theoretical Biology, 368* [[10.1016/j.jtbi.2014.12.010]](https://doi.org/10.1016/j.jtbi.2014.12.010).
